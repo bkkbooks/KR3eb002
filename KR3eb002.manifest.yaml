@@ -24,8 +24,8 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3eb002_000.markers.yaml, hash: 'sha256:6cfa8a0b3e5b1b969c27b268f6e3aee0d882d9ac9ae4f42fced7ba1045743b5c'}
   - {seq: 1, role: markers, filename: assets/KR3eb002_001.markers.yaml, hash: 'sha256:ef5f077185f0b988cc3df264409fcf613e48bdef952002c055f02a46d8ad1068'}
-  - {seq: 2, role: markers, filename: assets/KR3eb002_002.markers.yaml, hash: 'sha256:6b78c1c031f789c89e83b33b1f7c14520b1d8905c29c218abf1d26df37a248ee'}
-  - {seq: 3, role: markers, filename: assets/KR3eb002_003.markers.yaml, hash: 'sha256:c402bc7ba8a291258f8476d4879c2bf3f275ff96fdb3d316895efc7d1c664327'}
+  - {seq: 2, role: markers, filename: assets/KR3eb002_002.markers.yaml, hash: 'sha256:d4da23de76e9bb81de65b668b043915eeab9694c907122334fb66ff29dd6d60f'}
+  - {seq: 3, role: markers, filename: assets/KR3eb002_003.markers.yaml, hash: 'sha256:58eb755ca4bd748cdf61991f42053cc3907e0e77a4b615fe690d0136423e3758'}
 table_of_contents:
 - ref:
     seq: 0
@@ -827,7 +827,7 @@ table_of_contents:
   label: 原夢
   type: section
   level: 2
-hash: sha256:5e9972ac433aa4eb6975874bd7afb81c257eec603115761e987ed7ec37dc204d
+hash: sha256:f439b8a72889a7497525ecec9ec7a1ebbe106331cd73768395903286f26de4c3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
